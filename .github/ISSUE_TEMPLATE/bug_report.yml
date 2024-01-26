@@ -61,7 +61,7 @@ body:
     attributes:
       label: Make sure the bug wasn't reported before
       options:
-        - label: I'm the first one to [report](https://github.com/avi12/youtube-auto-hd/issues?q=is%3Aissue) it
+        - label: I'm the first one to [report](/avi12/youtube-time-manager-feedback/issues?q=is%3Aissue+) it
           required: true
   - type: checkboxes
     id: isolated
